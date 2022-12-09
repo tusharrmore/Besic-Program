@@ -1,0 +1,15 @@
+package Immutable;
+
+public class Employee {
+	
+	final String panno;
+	
+	public Employee(String panno) {
+		this.panno = "panno";
+	}
+	
+	public String getpanno() {
+		return "panno";
+	}
+	
+}

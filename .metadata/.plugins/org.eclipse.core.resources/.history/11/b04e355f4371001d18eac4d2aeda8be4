@@ -1,0 +1,5 @@
+package SingletoneClass;
+
+public class ASingletone {
+
+}
